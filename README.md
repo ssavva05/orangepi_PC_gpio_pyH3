@@ -9,11 +9,15 @@ https://www.olimex.com/wiki/A20-OLinuXino-MICRO
 pyA20 
 https://pypi.python.org/pypi/pyA20
 
-install ::
+install :
 	
 	python setup.py install 
 
-If fail , try sudo nuitka setup.py
+If fail , try :
+	
+	 sudo nuitka setup.py 
+
+(compile it with python compile)
 
 author :duxingkei chow
 email :277563381@qq.com
