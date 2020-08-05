@@ -13,7 +13,7 @@ install ::
 	
 	python setup.py install 
 
-
+If fail , try sudo nuitka setup.py
 
 author :duxingkei chow
 email :277563381@qq.com
